@@ -1,0 +1,49 @@
+/*header-section*/
+.navbar-brand{
+    color: #057ceb !important;
+    font-size: 40px;
+    font-weight: 700;
+    font-style: italic;
+}
+.nav-link{
+    color: aliceblue !important;
+}
+h3{
+    padding-left: 35%;
+}
+h1{
+    text-align: center;
+    font-weight: 600;
+}
+p{
+    text-align: center;
+}
+.butt1{
+    margin-left: 40%;
+    padding-left: 10px;
+    background-color: #057ceb;
+    color: aliceblue;
+    border-radius: 15px;
+    border-color: #057ceb;
+}
+
+.butt2{
+    margin-left: 20%;
+    padding-left: 10px;
+    background-color: #057ceb;
+    color: aliceblue;
+    border-radius: 15px;
+    border-color: #057ceb;
+}
+.Container-one{
+    background-image: url('./denofthieves.PNG');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: aliceblue;
+    width:100%;
+    height: 100%;
+    
+}
+span{
+    color: #057ceb;
+}
